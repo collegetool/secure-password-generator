@@ -1,0 +1,27 @@
+{
+   "browser_action": {
+      "default_icon": {
+         
+		 "16": "images/icon@64w.png"       
+      },
+      "default_popup": "popup.html",
+      "default_title": "Secure Password Generator"
+   },
+   
+   "default_locale": "en",
+   "description": "This add-on allows you to quickly generate secure passwords using random characters by choosing the length, digits and symbols.",
+   "icons": {
+   
+      "128": "images/icon@128w.png",
+      "16": "images/icon@32w.png",  
+      "64": "images/icon@64w.png",  	  
+      "512": "images/icon@512w.png"
+   },
+   "manifest_version": 2,
+   
+   "name": "Secure Password Generator",
+   "permissions": [  ],
+   "version": "1.0.0"
+
+
+}
